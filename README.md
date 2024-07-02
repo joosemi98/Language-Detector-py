@@ -13,11 +13,7 @@ This project is a simple language detection application developed in Python usin
 
 ## Screenshots
 
-test1English.png
 
-test2Afrikaana.png
-
-test3Dutch.png
 
 
 ## Installation
